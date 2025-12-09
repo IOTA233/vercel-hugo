@@ -2,13 +2,9 @@
 - taxonomy: MJJ的推荐
   icon: far fa-star
   links:
-    - title: 博客
-      logo: aiedu.png
-      url: https://googhub.nyc.mn/
-      description: 最新最全的解决方案集，我的博客站
     - title: YXVM
       logo: yxvm.ico
-      url: https://yxvm.com/aff.php?aff=660
+      url: https://yxvm.com
       description: The better way to build your project with YxVM.
     - title: Alice
       logo: alice.ico
